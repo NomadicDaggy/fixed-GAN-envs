@@ -1,38 +1,41 @@
 certifi==2020.12.5
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
+click==7.1.2
+cloudpickle==1.6.0
 cycler==0.10.0
 cytoolz==0.11.0
 dask==1.1.4
-dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
-decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
+dataclasses==0.8
+decorator==5.0.6
 easydict==1.9
-imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
-joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
-kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282412546/work
-matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+imageio==2.9.0
+joblib==1.0.1
+kiwisolver==1.3.1
+matplotlib==3.3.4
 mkl-fft==1.3.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 networkx==2.2
-nltk @ file:///tmp/build/80754af9/nltk_1618327084230/work
-numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
+nltk==3.6.1
+numpy==1.19.2
 olefile==0.46
-pandas @ file:///tmp/build/80754af9/pandas_1602088135163/work
-Pillow @ file:///tmp/build/80754af9/pillow_1617386154532/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-PyWavelets @ file:///tmp/build/80754af9/pywavelets_1601658315997/work
+pandas==1.1.3
+Pillow==8.2.0
+pip==21.0.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+PyWavelets==1.1.1
 PyYAML==5.4.1
-regex @ file:///tmp/build/80754af9/regex_1617569710506/work
+regex==2021.4.4
 scikit-image==0.17.2
-scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
-six @ file:///tmp/build/80754af9/six_1605205335545/work
+scipy==1.5.2
+setuptools==52.0.0.post20210125
+six==1.15.0
 tifffile==2020.10.1
-toolz @ file:///home/linux1/recipes/ci/toolz_1610987900194/work
+toolz==0.11.1
 torch==1.8.1
 torchvision==0.9.1
-tornado @ file:///tmp/build/80754af9/tornado_1606942266872/work
-tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+tornado==6.1
+tqdm==4.59.0
+typing-extensions==3.7.4.3
+wheel==0.36.2
